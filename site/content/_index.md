@@ -1,20 +1,20 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
-blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+title: "Jonny Boutwood Casting"
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+    heading: "Biography"
+    text: "Jonny has been working in casting for 12 years. The first 3 years of this was in regional and West End Theatre and then moved into TV and Film. Throughout his years as an assistant and associate, Jonny has been privileged to work and learn from some of the most prolific Casting Directors in the UK. Most recently working 7 years for Shaheen Baig and whilst there he worked on a wide range of Independent Films, such as; SCRAPPER, PIRATES, THE NEST, SUPERNOVA and RARE BEASTS. He has also worked on a variety of TV series like THE VIRTUES, THREE GIRLS, I AM series and GET MILLIE BLACK. 
+    Jonny has also been Co-Casting with Shaheen on the TV series of HANNA and most recently BOILING POINT.
+    For further information on projects, please see below and visit Jonny's IMDb link: 
+
+    https://www.imdb.com/name/nm6696328/
+    "
+projects:
+    - image: img/boiling_point.jpg
+      title: "Boiling Point"
+      type: TV Series
+      status: In production
+      role: Co-Casting Director
     - image: /img/illustrations-coffee-gear.svg
       text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
 ---
 
