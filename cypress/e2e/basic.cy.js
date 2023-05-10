@@ -13,4 +13,3 @@ describe('empty spec', () => {
     cy.get('h1').contains(/Latest Stories/i)
   })
 })
-})
