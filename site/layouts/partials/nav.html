@@ -10,8 +10,17 @@
 	</h1>
 
 	<!-- Primary Nav -->
-	<ul class="flex b grey-3 no-underline">
-		<li><a href="/" class="f6 pa3 no-underline db">Home</a></li>
-		<li><a href="/contact" class="f6 pa3 no-underline db">Contact</a></li>
-	</ul>
+	<div class="flex flex-column">
+		<ul class="flex b grey-3 no-underline">
+			<li><a href="/" class="f6 pa3 no-underline db">Home</a></li>
+			<li><a href="/contact" class="f6 pa3 no-underline db">Contact</a></li>
+
+		</ul>
+		<ul class="">
+			{{ partial "social-icon" (dict "link" "#" "svg" "icons-facebook") }}
+			{{ partial "social-icon" (dict "link" "#" "svg" "icons-twitter") }}
+			{{ partial "social-icon" (dict "link" "#" "svg" "icons-instagram") }}
+		</ul>
+	</div>
+
 </nav>
