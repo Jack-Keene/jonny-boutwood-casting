@@ -10,13 +10,13 @@ intro:
         Directors in the UK. Most recently working 7 years for Shaheen Baig and
         whilst there he worked on a wide range of Independent Films, such as;
         SCRAPPER, PIRATES, THE NEST, SUPERNOVA and RARE BEASTS. He has also
-        worked on a variety of TV series like THE VIRTUES, THREE GIRLS, I AM
+        worked on a variety of TV series including THE VIRTUES, THREE GIRLS, I AM
         series and GET MILLIE BLACK.
-    - paragraph: " Jonny has also been Co-Casting with Shaheen on the TV series of
-        HANNA and most recently BOILING POINT."
-    - paragraph: "For further information on projects, please see below and visit
-        Jonny's IMDb link:"
+    - paragraph: Jonny has also been Co-Casting with Shaheen on the TV series of
+        HANNA and most recently BOILING POINT.
+    - paragraph: For further information on projects, please see below and visit Jonny's IMDb link.
   link: https://www.imdb.com/name/nm6696328/
+  image: img/IMDB_Logo_2016.svg
 projects:
   - image: img/boiling_point.jpg
     title: Boiling Point
