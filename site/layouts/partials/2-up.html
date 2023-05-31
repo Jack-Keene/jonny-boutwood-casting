@@ -1,21 +1,57 @@
-<div class="bg-off-white pv4">
-  <div class="ph3 mw7 center">
-    <h2 class="f2 b lh-title mb2">{{.intro.heading}}</h2>
-    <p class="center">{{.intro.text}}</p>
-
-    <div class="flex-ns mhn2-ns mb3">
-      {{ range .projects }}
-      <div class="ph2-ns w-50-ns">
-        <img src="{{.image}}" alt="" class="center " style="width: 240px">
-        <div>
-          <p>{{.title}}({{.type}})</p>
-          <p>{{.status}}</p>
-          <p>{{.role}}</p>
+<div class="bg-off-white ">
+  <section>
+    <div class="flex flex-wrap justify-center" style="background-color:rgb(28, 90, 41)">
+      <div class="flex flex-wrap white justify-center w-70 pt3 pb3">
+        <div class="flex white flex-column w-100">
+          <h2 class="f2 b" style="text-transform: uppercase;">{{.intro.heading}}</h2>
+          <div class="flex flex-column">
+            {{ range .intro.text }}
+            <p class="f6 ">{{.paragraph}} <br /></p>
+            {{end}}
+            <a href="{{ .intro.link }}" target="_blank">{{ .intro.link }}</a>
+          </div>
         </div>
       </div>
-      {{ end }}
     </div>
-
-
-  </div>
+  </section>
+  <section>
+    <div class="flex justify-center">
+      <div class="flex flex-wrap white w-70 justify-start">
+        <div class="flex flex-column justify-start">
+          <h2 class="f2 b black" style="text-transform: uppercase; ">Projects</h2>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section>
+    <div class="flex flex-wrap justify-center">
+      <div class="flex flex-wrap white justify-center ">
+        <div class="flex flex-column  ">
+          <div class="flex flex-wrap justify-around ba" style=" background-color:rgb(28, 90, 41)">
+            {{ range .projects }}
+            <div class="w-40 ba flex-column">
+              <img src="{{.image}}" alt="" style="width: 240px">
+              <div class="ba black flex flex-column" style=" background-color:white">
+                <p class="mb0">{{.title}} ({{.type}})</p>
+                <p class="mb0 i f6">{{.status}}</p>
+                <p class="mb0 b f6">{{.role}}</p>
+              </div>
+            </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section>
+    <div class="flex flex-wrap justify-center" style="background-color:rgb(28, 90, 41)">
+      <div class="flex flex-wrap white  w-70 pt3 pb3">
+        <div class="flex white flex-column ">
+          <h2 class="f2 b" style="text-transform: uppercase;">Contact</h2>
+          <p class="center"><a href="mailto:jonny@jonnyboutwoodcasting.com">jonny@jonnyboutwoodcasting.com</a></p>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
 </div>
