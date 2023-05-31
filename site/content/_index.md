@@ -1,32 +1,41 @@
 ---
-title: "Jonny Boutwood Casting"
+title: Jonny Boutwood Casting
 intro:
-    heading: "Biography"
-    text:
-      - paragraph: "Jonny has been working in casting for 12 years. The first 3 years of this was in regional and West End Theatre and then moved into TV and Film. Throughout his years as an assistant and associate, Jonny has been privileged to work and learn from some of the most prolific Casting Directors in the UK. Most recently working 7 years for Shaheen Baig and whilst there he worked on a wide range of Independent Films, such as; SCRAPPER, PIRATES, THE NEST, SUPERNOVA and RARE BEASTS. He has also worked on a variety of TV series like THE VIRTUES, THREE GIRLS, I AM series and GET MILLIE BLACK."
-      - paragraph: " Jonny has also been Co-Casting with Shaheen on the TV series of HANNA and most recently BOILING POINT."
-      - paragraph: "For further information on projects, please see below and visit Jonny's IMDb link:"
-    link: "https://www.imdb.com/name/nm6696328/"
+  heading: Biography
+  text:
+    - paragraph: Jonny has been working in casting for 12 years. The first 3 years of
+        this was in regional and West End Theatre and then moved into TV and
+        Film. Throughout his years as an assistant and associate, Jonny has been
+        privileged to work and learn from some of the most prolific Casting
+        Directors in the UK. Most recently working 7 years for Shaheen Baig and
+        whilst there he worked on a wide range of Independent Films, such as;
+        SCRAPPER, PIRATES, THE NEST, SUPERNOVA and RARE BEASTS. He has also
+        worked on a variety of TV series like THE VIRTUES, THREE GIRLS, I AM
+        series and GET MILLIE BLACK.
+    - paragraph: " Jonny has also been Co-Casting with Shaheen on the TV series of
+        HANNA and most recently BOILING POINT."
+    - paragraph: "For further information on projects, please see below and visit
+        Jonny's IMDb link:"
+  link: https://www.imdb.com/name/nm6696328/
 projects:
-    - image: img/boiling_point.jpg
-      title: "Boiling Point"
-      type: TV Series
-      status: In production
-      role: Co-Casting Director
-    - image: img/boiling_point.jpg
-      title: "Boiling Point"
-      type: TV Series
-      status: In production
-      role: Co-Casting Director
-    - image: img/boiling_point.jpg
-      title: "Boiling Point"
-      type: TV Series
-      status: In production
-      role: Co-Casting Director
-    - image: img/boiling_point.jpg
-      title: "Boiling Point"
-      type: TV Series
-      status: In production
-      role: Co-Casting Director
+  - image: img/boiling_point.jpg
+    title: Boiling Point
+    type: TV Series
+    status: In production
+    role: Co-Casting Director
+  - image: img/IMG-20230425-WA0007.jpg
+    title: Boiling Point
+    type: TV Series
+    status: In production
+    role: Co-Casting Director
+  - image: img/boiling_point.jpg
+    title: Boiling Point
+    type: TV Series
+    status: In production
+    role: Co-Casting Director
+  - image: img/boiling_point.jpg
+    title: Boiling Point
+    type: TV Series
+    status: In production
+    role: Co-Casting Director
 ---
-
