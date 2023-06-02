@@ -10,11 +10,12 @@ intro:
         Directors in the UK. Most recently working 7 years for Shaheen Baig and
         whilst there he worked on a wide range of Independent Films, such as;
         SCRAPPER, PIRATES, THE NEST, SUPERNOVA and RARE BEASTS. He has also
-        worked on a variety of TV series including THE VIRTUES, THREE GIRLS, I AM
-        series and GET MILLIE BLACK.
-    - paragraph: Jonny has also been Co-Casting with Shaheen on the TV series of
-        HANNA and most recently BOILING POINT.
-    - paragraph: For further information on projects, please see below and visit Jonny's IMDb link.
+        worked on a variety of TV series including THE VIRTUES, THREE GIRLS, I
+        AM series and GET MILLIE BLACK.
+    - paragraph: Jonny has also been Co-Casting with Shaheen on the TV series of HANNA
+        and most recently BOILING POINT.
+    - paragraph: For further information on projects, please see below and visit
+        Jonny's IMDb link.
   link: https://www.imdb.com/name/nm6696328/
   image: img/IMDB_Logo_2016.svg
 projects:
@@ -23,19 +24,21 @@ projects:
     type: TV Series
     status: In production
     role: Co-Casting Director
-  - image: img/IMG-20230425-WA0007.jpg
-    title: Boiling Point
+  - image: img/edgware_road.jpg
+    title: Edgware Road
+    type: Feature Film
+    status: Pre-Production
+    role: Casting Director
+  - image: img/hanna.jpg
+    title: Hanna
     type: TV Series
-    status: In production
-    role: Co-Casting Director
-  - image: img/boiling_point.jpg
-    title: Boiling Point
-    type: TV Series
-    status: In production
-    role: Co-Casting Director
-  - image: img/boiling_point.jpg
-    title: Boiling Point
-    type: TV Series
-    status: In production
-    role: Co-Casting Director
+    status: " 2019 - 2021"
+    role: |-
+      Co-Casting Director (2 x Series)
+      Casting Associate (1 x Series)
+  - image: img/do_this_for_me.jpg
+    title: Do This For Me
+    type: " "
+    status: " "
+    role: Casting Director
 ---
