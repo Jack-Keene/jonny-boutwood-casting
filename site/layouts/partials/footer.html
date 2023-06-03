@@ -1,25 +1,25 @@
-<footer class="bg-off-white ph3 pv4 ">
+<footer class="bg-grey-1 ph3 pv4">
+	<div class="flex justify-center items-center">
+		<div class="w-100 flex flex-column justify-start items-center">
+			<h3 class="f4 b lh-title mb1 ">JBC</h3>
+			<ul>
+				<li><a href="/" class="link">Home</a></li>
+				<li><a href="/contact" class="link">Contact</a></li>
+			</ul>
+		</div>
 
-	<div class="mw7 center pt3">
-		<div class="flex justify-between">
+		<a href="/" class="dn db-m w3 h-100 w-30 ">
+			<img src="/img/jbc.jpg" alt="JBC logo" class="br0 db mb0 w-100 " />
+		</a>
 
-			<div>
-				<h3 class="f4 b lh-title mb1 ">JBC</h3>
-				<ul class="mb3">
-					<li><a href="/" class="link">Home</a></li>
-					<li><a href="/contact" class="link">Contact</a></li>
-				</ul>
-			</div>
-
-			<div>
-				<h3 class="f4 b lh-title mb2 ">Social media</h3>
-				<ul class="mhn2">
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-facebook") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-twitter") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-instagram") }}
-				</ul>
-			</div>
-
+		<div class="w-100 flex flex-column justify-start items-center ">
+			<h3 class="f4 b">Social media</h3>
+			<ul class="mhn2 flex justify-center">
+				{{ partial "social-icon" (dict "link" "https://www.twitter.com/JGBoutwood" "svg"
+				"icons-twitter") }}
+				{{ partial "social-icon" (dict "link" "https://www.instagram.com/jonnyboutwoodcasting" "svg"
+				"icons-instagram") }}
+			</ul>
 		</div>
 	</div>
 

@@ -21,17 +21,17 @@ intro:
 projects:
   - image: img/boiling_point.jpg
     title: Boiling Point
-    type: TV Series
+    type: (TV Series)
     status: In production
     role: Co-Casting Director
   - image: img/edgware_road.jpg
     title: Edgware Road
-    type: Feature Film
+    type: (Feature Film)
     status: Pre-Production
     role: Casting Director
   - image: img/hanna.jpg
     title: Hanna
-    type: TV Series
+    type: (TV Series)
     status: " 2019 - 2021"
     role: |-
       Co-Casting Director (2 x Series)
