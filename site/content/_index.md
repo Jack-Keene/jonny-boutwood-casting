@@ -14,8 +14,7 @@ intro:
         SCRAPPER, PIRATES, THE NEST, SUPERNOVA and RARE BEASTS. He has also
         worked on a variety of TV series including THE VIRTUES, THREE GIRLS, I
         AM series and GET MILLIE BLACK.
-    - paragraph: For further information on projects, please see below and visit
-        Jonny's IMDb link.
+    - paragraph: For further information on projects, please visit Jonny's IMDb link.
   link: https://www.imdb.com/name/nm6696328/
   image: img/IMDB_Logo_2016.svg
 projects:
