@@ -3,10 +3,10 @@ title: Jonny Boutwood Casting
 intro:
   heading: Biography
   text:
-    - paragraph: Jonny has also been Co-Casting with Shaheen on the TV series of HANNA
-        and most recently BOILING POINT.
-    - paragraph: Prior to this Jonny worked casting for 12 years. The first 3 years of
-        this was in regional and West End Theatre and then moved into TV and
+    - paragraph: Jonny has most recently been Co-Casting with Shaheen on the
+        Television series of HANNA and BOILING POINT.
+    - paragraph: Prior to this Jonny worked in casting for 12 years. The first 3 years
+        of this was in regional and West End Theatre and then moved into TV and
         Film. Throughout his years as an assistant and associate, Jonny has been
         privileged to work and learn from some of the most prolific Casting
         Directors in the UK. Most recently working 7 years for Shaheen Baig and
