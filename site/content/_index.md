@@ -15,7 +15,7 @@ intro:
         worked on a variety of TV series including THE VIRTUES, THREE GIRLS, I
         AM series and GET MILLIE BLACK.
     - paragraph: "Please visit Jonny's IMDb link below for further information on
-        projects. "
+        projects.                   "
   link: https://www.imdb.com/name/nm6696328/
   image: img/IMDB_Logo_2016.svg
 projects:
