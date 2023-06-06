@@ -21,7 +21,7 @@ projects:
   - image: img/boiling_point.jpg
     title: Boiling Point
     type: (TV Series)
-    status: In production
+    status: Post Production
     role: Co-Casting Director
   - image: img/edgware_road.jpg
     title: Edgware Road
@@ -37,8 +37,8 @@ projects:
       Casting Associate (1 x Series)
   - image: img/mv5bzdmymgvlzmqtode3zs00mjzmlwjmztuty2u0nmq0odkwotyzxkeyxkfqcgdeqxvymjm3nte4oti-._v1_.jpg
     title: Do This For Me
-    type: " "
-    status: " "
+    type: " (Short Film)"
+    status: " 2022"
     role: Casting Director
   - image: img/mv5bzmq5nzc3ntctntixmy00mgizltljywutzdq5zwi4mtfintkxxkeyxkfqcgdeqxvyodgxotu0ndg-._v1_.jpg
     title: Pressure
