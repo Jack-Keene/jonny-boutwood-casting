@@ -28,7 +28,7 @@ projects:
     type: (Feature Film)
     status: Pre-Production
     role: Casting Director
-  - image: img/hanna.jpg
+  - image: img/whatsapp-image-2023-06-05-at-14.03.09.jpeg
     title: Hanna
     type: (TV Series)
     status: " 2019 - 2021"
