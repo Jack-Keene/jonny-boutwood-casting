@@ -36,7 +36,7 @@ projects:
     role: |-
       Co-Casting Director (2 x Series)
       Casting Associate (1 x Series)
-  - image: img/do-this-for-me-smaller.jpg
+  - image: img/do-this-for-me-use-this-one.jpg
     title: Do This For Me
     type: " (Short Film)"
     status: " 2022"
