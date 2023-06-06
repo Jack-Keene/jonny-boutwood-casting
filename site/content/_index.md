@@ -43,7 +43,7 @@ projects:
     role: Casting Director
   - image: img/mv5bzmq5nzc3ntctntixmy00mgizltljywutzdq5zwi4mtfintkxxkeyxkfqcgdeqxvyodgxotu0ndg-._v1_.jpg
     title: Pressure
-    type: Short Film
+    type: (Short Film)
     role: "Casting Director "
     status: (2021)
 ---
