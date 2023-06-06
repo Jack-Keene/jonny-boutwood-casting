@@ -24,7 +24,7 @@ projects:
     type: (TV Series)
     status: Post Production
     role: Co-Casting Director
-  - image: img/edgware_road.jpg
+  - image: img/mv5bzjvioti4zmqtnjjhzs00njkwlthizwmtzdezyzkwyjk5ntzixkeyxkfqcgdeqxvyndizotm4nzi-._v1_.jpg
     title: Edgware Road
     type: (Feature Film)
     status: Pre-Production
