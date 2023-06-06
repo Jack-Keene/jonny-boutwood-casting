@@ -46,4 +46,9 @@ projects:
     type: (Short Film)
     role: "Casting Director "
     status: (2021)
+  - title: "Brothers Gibril "
+    type: (Short Film)
+    status: "2018"
+    role: Casting Director
+    image: img/mv5byzbjngvmm2mtmdnmni00ztmxltliywytyzi5ndc0yze0zdi1xkeyxkfqcgdeqxvyndi3ndmznzg-._v1_.jpg
 ---
