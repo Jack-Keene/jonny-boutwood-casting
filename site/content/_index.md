@@ -45,7 +45,7 @@ projects:
     title: Pressure
     type: (Short Film)
     role: "Casting Director "
-    status: (2021)
+    status: "2021"
   - title: "Brothers Gibril "
     type: (Short Film)
     status: "2018"
