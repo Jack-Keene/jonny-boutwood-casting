@@ -29,6 +29,11 @@ projects:
     type: (Feature Film)
     status: Pre-Production
     role: Casting Director
+  - image: img/mv5bzdmymgvlzmqtode3zs00mjzmlwjmztuty2u0nmq0odkwotyzxkeyxkfqcgdeqxvymjm3nte4oti-._v1_.jpg
+    title: Do This For Me
+    type: " (Short Film)"
+    status: " 2022"
+    role: Casting Director
   - image: img/whatsapp-image-2023-06-05-at-14.03.09.jpeg
     title: Hanna
     type: (TV Series)
@@ -36,11 +41,6 @@ projects:
     role: |-
       Co-Casting Director (2 x Series)
       Casting Associate (1 x Series)
-  - image: img/mv5bzdmymgvlzmqtode3zs00mjzmlwjmztuty2u0nmq0odkwotyzxkeyxkfqcgdeqxvymjm3nte4oti-._v1_.jpg
-    title: Do This For Me
-    type: " (Short Film)"
-    status: " 2022"
-    role: Casting Director
   - image: img/mv5bzmq5nzc3ntctntixmy00mgizltljywutzdq5zwi4mtfintkxxkeyxkfqcgdeqxvyodgxotu0ndg-._v1_.jpg
     title: Pressure
     type: (Short Film)
