@@ -3,17 +3,15 @@ title: Jonny Boutwood Casting
 intro:
   heading: Biography
   text:
+    - paragraph: >-
+        Jonny has been working in casting for 12 years. He began by working in
+        Regional and West End Theatre and then, after three years, moved into TV
+        and Film. 
+
+
+        Throughout his years as an associate and assistant, Jonny has been privileged to work and learn from some of the most prolific Casting Directors in the UK. He has spent the last seven years working with Shaheen Baig working on a wide range of TV series including; SHERLOCK, THE VIRTUES, THREE GIRLS, THE GALLOWS POLE, I AM series and GET MILLIE BLACK. And Independent Films, such as; SCRAPPER, PIRATES, THE NEST, SUPERNOVA and RARE BEASTS.
     - paragraph: Jonny has most recently been Co-Casting with Shaheen on the
-        Television series of HANNA and BOILING POINT.
-    - paragraph: Prior to this Jonny worked in casting for 12 years. The first 3 years
-        of this was in regional and West End Theatre and then moved into TV and
-        Film. Throughout his years as an assistant and associate, Jonny has been
-        privileged to work and learn from some of the most prolific Casting
-        Directors in the UK. Most recently working 7 years for Shaheen Baig and
-        whilst there he worked on a wide range of Independent Films, such as;
-        SCRAPPER, PIRATES, THE NEST, SUPERNOVA and RARE BEASTS. He has also
-        worked on a variety of TV series including THE VIRTUES, THREE GIRLS, I
-        AM series and GET MILLIE BLACK.
+        Television series of HANNA (Amazon Prime) and BOILING POINT (BBC).
     - paragraph: "Please visit Jonny's IMDb link below for further information on
         projects.                   "
   link: https://www.imdb.com/name/nm6696328/
