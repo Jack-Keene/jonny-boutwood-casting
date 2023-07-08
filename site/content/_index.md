@@ -9,7 +9,7 @@ intro:
         and Film. 
 
 
-        Throughout his years as an associate and assistant, Jonny has been privileged to work and learn from some of the most prolific Casting Directors in the UK. He has spent the last seven years working with Shaheen Baig working on a wide range of TV series including; SHERLOCK, THE VIRTUES, THREE GIRLS, THE GALLOWS POLE, I AM series and GET MILLIE BLACK. And Independent Films, such as; SCRAPPER, PIRATES, THE NEST, SUPERNOVA and RARE BEASTS.
+        Throughout his years as an associate and assistant, Jonny has been privileged to work and learn from some of the most prolific Casting Directors in the UK. He has spent the last seven years working with Shaheen Baig on a wide range of TV series including; THE VIRTUES, THREE GIRLS, THE GALLOWS POLE, I AM series and GET MILLIE BLACK. Also Independent Films, such as; SCRAPPER, PIRATES, THE NEST, SUPERNOVA and RARE BEASTS.
     - paragraph: Jonny has most recently been Co-Casting with Shaheen on the
         Television series of HANNA (Amazon Prime) and BOILING POINT (BBC).
     - paragraph: "Please visit Jonny's IMDb link below for further information on
