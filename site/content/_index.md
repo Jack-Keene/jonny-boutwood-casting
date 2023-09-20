@@ -25,6 +25,11 @@ projects:
     type: (TV Series)
     status: Post Production
     role: Co-Casting Director
+  - title: ELICIT
+    type: (Short Film)
+    status: "2023"
+    role: Casting Director
+    image: img/norwich-notification-twitter-post.png
   - image: img/mv5bzjvioti4zmqtnjjhzs00njkwlthizwmtzdezyzkwyjk5ntzixkeyxkfqcgdeqxvyndizotm4nzi-._v1_.jpg
     title: Edgware Road
     type: (Feature Film)
@@ -52,9 +57,4 @@ projects:
     status: "2018"
     role: Casting Director
     image: img/mv5byzbjngvmm2mtmdnmni00ztmxltliywytyzi5ndc0yze0zdi1xkeyxkfqcgdeqxvyndi3ndmznzg-._v1_.jpg
-  - title: ELICIT
-    type: (Short Film)
-    status: "2023"
-    role: Casting Director
-    image: img/norwich-notification-twitter-post.png
 ---
