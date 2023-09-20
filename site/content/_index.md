@@ -52,4 +52,9 @@ projects:
     status: "2018"
     role: Casting Director
     image: img/mv5byzbjngvmm2mtmdnmni00ztmxltliywytyzi5ndc0yze0zdi1xkeyxkfqcgdeqxvyndi3ndmznzg-._v1_.jpg
+  - title: ELICIT
+    type: (Short Film)
+    status: "2023"
+    role: Casting Director
+    image: img/norwich-notification-twitter-post.png
 ---
