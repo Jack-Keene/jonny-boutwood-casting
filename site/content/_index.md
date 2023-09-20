@@ -3,7 +3,7 @@ title: Jonny Boutwood Casting
 intro:
   heading: Biography
   text:
-    - paragraph: Jonny has been working in casting for 12 years. He began by working
+    - paragraph: Jonny has been working in casting for 13 years. He began by working
         in Regional and West End Theatre and then, after three years, moved into
         TV and Film.
     - paragraph: Throughout his years as an associate and assistant, Jonny has been
