@@ -23,7 +23,7 @@ projects:
   - image: img/p0ggstdh.jpg
     title: Boiling Point
     type: (TV Series)
-    status: Post Production
+    status: "2023"
     role: Co-Casting Director
   - image: img/mv5bzjvioti4zmqtnjjhzs00njkwlthizwmtzdezyzkwyjk5ntzixkeyxkfqcgdeqxvyndizotm4nzi-._v1_.jpg
     title: Edgware Road
