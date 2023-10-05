@@ -20,21 +20,21 @@ intro:
   link: https://www.imdb.com/name/nm6696328/
   image: img/IMDB_Logo_2016.svg
 projects:
-  - image: img/boiling_point.jpg
+  - image: img/p0ggstdh.jpg
     title: Boiling Point
     type: (TV Series)
     status: Post Production
     role: Co-Casting Director
-  - title: ELICIT
-    type: (Short Film)
-    status: "2023"
-    role: Casting Director
-    image: img/norwich-notification-twitter-post.png
   - image: img/mv5bzjvioti4zmqtnjjhzs00njkwlthizwmtzdezyzkwyjk5ntzixkeyxkfqcgdeqxvyndizotm4nzi-._v1_.jpg
     title: Edgware Road
     type: (Feature Film)
     status: Pre-Production
     role: Casting Director
+  - title: ELICIT
+    type: (Short Film)
+    status: "2023"
+    role: Casting Director
+    image: img/norwich-notification-twitter-post.png
   - image: img/mv5bzdmymgvlzmqtode3zs00mjzmlwjmztuty2u0nmq0odkwotyzxkeyxkfqcgdeqxvymjm3nte4oti-._v1_.jpg
     title: Do This For Me
     type: " (Short Film)"
