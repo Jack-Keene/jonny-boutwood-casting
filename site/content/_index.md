@@ -26,6 +26,11 @@ projects:
     type: (TV Series)
     status: "2023"
     role: Co-Casting Director
+  - title: The Pigeon Tunnel
+    type: (Documentary)
+    status: "2023"
+    role: Co-Casting Director
+    image: img/pigeon_tunnel_film_poster.jpg
   - image: img/mv5bzjvioti4zmqtnjjhzs00njkwlthizwmtzdezyzkwyjk5ntzixkeyxkfqcgdeqxvyndizotm4nzi-._v1_.jpg
     title: Edgware Road
     type: (Feature Film)
@@ -58,9 +63,4 @@ projects:
     status: "2018"
     role: Casting Director
     image: img/mv5byzbjngvmm2mtmdnmni00ztmxltliywytyzi5ndc0yze0zdi1xkeyxkfqcgdeqxvyndi3ndmznzg-._v1_.jpg
-  - title: The Pigeon Tunnel
-    type: (Documentary)
-    status: "2023"
-    role: Co-Casting Director
-    image: img/pigeon_tunnel_film_poster.jpg
 ---
