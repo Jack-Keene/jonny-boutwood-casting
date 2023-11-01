@@ -30,7 +30,7 @@ projects:
     type: (Documentary)
     status: "2023"
     role: Co-Casting Director
-    image: img/apple-tv.jpg
+    image: img/the_pigeon_tunnel-1-copy.jpg
   - image: img/mv5bzjvioti4zmqtnjjhzs00njkwlthizwmtzdezyzkwyjk5ntzixkeyxkfqcgdeqxvyndizotm4nzi-._v1_.jpg
     title: Edgware Road
     type: (Feature Film)
